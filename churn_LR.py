@@ -23,7 +23,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "f5a94048",
    "metadata": {},
    "outputs": [],
@@ -44,6 +44,7 @@
    "execution_count": 3,
    "id": "1f07a3bd",
    "metadata": {},
+
    "outputs": [
     {
      "data": {
@@ -258,7 +259,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "6c8b4f8e",
    "metadata": {},
    "outputs": [],
@@ -266,7 +267,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "dc54c0cc",
    "metadata": {},
    "outputs": [],
@@ -285,7 +286,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "ae3b1e6d",
    "metadata": {},
    "outputs": [],
@@ -304,7 +305,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "2c94b546",
    "metadata": {},
    "outputs": [],
@@ -323,7 +324,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "12b121b9",
    "metadata": {},
    "outputs": [],
@@ -343,7 +344,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "f122eac7",
    "metadata": {},
    "outputs": [],
@@ -376,7 +377,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "e279c980",
    "metadata": {},
    "outputs": [],
@@ -405,7 +406,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "52b7ab8c",
    "metadata": {},
    "outputs": [],
