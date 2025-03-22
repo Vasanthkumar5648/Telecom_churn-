@@ -1,5 +1,4 @@
-numpy
-pandas
+scikit-learn
 sklearn.ensemble
 RandomForestClassifier
 Preprocessing
