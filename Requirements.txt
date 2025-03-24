@@ -5,3 +5,4 @@ sklearn.ensemble
 RandomForestClassifier
 Preprocessing
 LableEncoder
+joblib==1.2.0
